@@ -4,6 +4,6 @@ def reverse_each_word(sentence1)
   x.each do |word|
     puts word.reverse
     y = word.reverse
-    return y
   end
+    return y
 end
